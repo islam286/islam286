@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Islam Ibrahim</h1>
 <h3 align="center">I'm A DevOps guy who ❤️ automating stuff</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...](https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/06/28161925/DevOps-min.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...](https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/06/28161925/DevOps-min.gif"/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=islam286" alt="islam286" /></a> </p>
 
